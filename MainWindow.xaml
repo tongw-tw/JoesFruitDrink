@@ -1,0 +1,40 @@
+﻿<!-- Tong Wang -->
+    <Window x:Class="JoesFruitDrink.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JoesFruitDrink"
+        mc:Ignorable="d"
+        Title="Joe's Fruit Drinks" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="How Many Drinks for 1 fruit?" 
+               Margin="10" FontSize="20" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <Label Grid.Row="1" Grid.Column="0" Content="How Many Drinks for 2 fruits?" 
+               Margin="10" FontSize="20" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <Label Grid.Row="2" Grid.Column="0" Content="How Many Drinks for 3 fruits?" 
+               Margin="10" FontSize="20" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding OneFruit}"
+                 Name="oneFruit" Margin="10" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding TwoFruit}"
+                 Name="twoFruit" Margin="10" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"></TextBox>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding ThreeFruit}"
+                 Name="threeFruit" Margin="10" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"></TextBox>
+        <Button Grid.Row="3" Grid.ColumnSpan="2" Name="invoice" Content="Generate Invoice" Click="invoice_Click"
+                Margin="30" FontSize="20"
+                HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Button>
+    </Grid>
+</Window>

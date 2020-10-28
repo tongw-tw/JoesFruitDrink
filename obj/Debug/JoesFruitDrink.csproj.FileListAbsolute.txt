@@ -1,0 +1,30 @@
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\bin\Debug\JoesFruitDrink.exe.config
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\bin\Debug\JoesFruitDrink.exe
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\bin\Debug\JoesFruitDrink.pdb
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink.csprojAssemblyReference.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\MainWindow.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\App.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink_MarkupCompile.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink_MarkupCompile.lref
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\MainWindow.baml
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink.g.resources
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink.Properties.Resources.resources
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink.csproj.GenerateResource.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink.csproj.CoreCompileInputs.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink.exe
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\JoesFruitDrink\obj\Debug\JoesFruitDrink.pdb
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\bin\Debug\JoesFruitDrink.exe.config
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\bin\Debug\JoesFruitDrink.exe
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\bin\Debug\JoesFruitDrink.pdb
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink.csprojAssemblyReference.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\MainWindow.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\App.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink_MarkupCompile.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink_MarkupCompile.lref
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\MainWindow.baml
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink.g.resources
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink.Properties.Resources.resources
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink.csproj.GenerateResource.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink.csproj.CoreCompileInputs.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink.exe
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\midterm\midterm_2nd take\JoesFruitDrink\obj\Debug\JoesFruitDrink.pdb
