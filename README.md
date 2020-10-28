@@ -1,6 +1,6 @@
 # JoesFruitDrink
 Conestoga College - PROG8010 - Midterm Q1
 
-A sequence can be created by squaring a value, dividing by 3 and including that value in the sequence if resulting calculations’ first decimal place is odd. For example, 12/8=0.125 and 1 is odd, so 1 is included in the sequence. Two is included, because 22/8=0.5 and the first fractional digit, 5, is odd. Three is included, because 32/8=1.125. Four is not included because 42/8=2.0 and the first decimal digit, 0, is even.
-Create an application allows the user to input the initial positive integer value of the sequence (0-50) and the maximum value for the sequence (range 0-500). The application should display the resulting sequence in a ListBox control when a ‘Begin’ button is clicked. The application should save the initial conditions provided by the user and the resulting sequence to a file when the user clicks a ‘To File’ button.
+Joe’sFruitDrinkssellsfruitbaseddrinks.Ifthecustomerorders1fruitin the drink, the cost is $3. Adding a second fruit costs $2 more. If a 3rd fruit is ordered, that adds an additional $1 to the cost. Joe must also charge a 12% tax. Joe will also deliver to your table if you request it for a 20% service charge.
+Provide this company with an application that allows them to calculate the total cost of an order that may contain several drinks with different amounts of fruit added. Generate an invoice and save it to a text file. The invoice should contain a header line with the company name, a line for each non-zero quantity fruit count (number of fruits, quantity, unit price, total item price), and a line for the sales total. Ensure you right justify all columns of numbers in your file output.
 
